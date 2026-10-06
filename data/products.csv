@@ -1,0 +1,13 @@
+product_id,product_name,category,price
+1,Latte,Coffee,5.25
+2,Cappuccino,Coffee,4.95
+3,Americano,Coffee,3.75
+4,Cold Brew,Coffee,4.95
+5,Frappuccino,Coffee,6.25
+6,Green Tea,Tea,3.95
+7,Chai Latte,Tea,5.45
+8,Croissant,Food,3.95
+9,Muffin,Food,3.5
+10,Bagel,Food,3.25
+11,Cookie,Food,2.95
+12,Sandwich,Food,7.5
